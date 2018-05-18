@@ -1,0 +1,81 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB",
+  "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  font-size: 14px;
+}
+
+body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.logo {
+  width: 1160px;
+  height: 180px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.background {
+  background-color: #eee;
+  min-width: 1160px;
+  height: 180px;
+  background-image: url("../assets/image/image-background.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.grid-margin {
+  margin: 10px 0;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.video-margin {
+  margin: 10px 0;
+}
+
+.img {
+  border-radius: 5px;
+}
+
+.video-words {
+  font-size: 14px;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.icon-number-pink {
+  color: #ffffff;
+  display: flex;
+  justify-content: center; /*实现水平居中*/
+  align-items: center; /*实现垂直居中*/
+  font-size: 14px;
+  height: 20px;
+  width: 20px;
+  border-radius: 5px;
+  background-color: #f25d8e;
+  float: left;
+  margin-right: 5px;
+}
+
+.icon-number-grey {
+  color: #ffffff;
+  display: flex;
+  justify-content: center; /*实现水平居中*/
+  align-items: center; /*实现垂直居中*/
+  font-size: 14px;
+  height: 20px;
+  width: 20px;
+  border-radius: 5px;
+  background-color: #b8c0cc;
+  float: left;
+  margin-right: 5px;
+}
