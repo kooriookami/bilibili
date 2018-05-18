@@ -370,6 +370,11 @@
         </el-col>
       </el-row>
     </div>
+
+    <div>
+      <LayoutBottom></LayoutBottom>
+    </div>
+
   </div>
 </template>
 
@@ -382,6 +387,7 @@
   import IconPaw from './Layout/IconPaw'
   import Menu from './Layout/Menu'
   import ActiveMore from './Layout/ActiveMore'
+  import LayoutBottom from './Layout/LayoutBottom'
 
   export default {
     name: "Layout",
@@ -394,6 +400,7 @@
       IconPaw,
       Menu,
       ActiveMore,
+      LayoutBottom,
     },
     data() {
       return {
