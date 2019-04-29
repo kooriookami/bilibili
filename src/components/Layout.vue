@@ -3,8 +3,8 @@
     <div class="background" style="margin-bottom: 10px">
       <div class="logo">
         <div style="position: absolute;left: 20px;bottom: 10px">
-          <a href="http://www.kooriookami.top:8000/">
-            <img src="../../src/assets/image/spring.png">
+          <a href="http://danmaku.kooriookami.top/">
+            <img src="../../src/assets/image/autumn.png">
           </a>
         </div>
         <div style="position: absolute;right: 0;bottom: 20px">

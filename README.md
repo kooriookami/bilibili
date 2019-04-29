@@ -24,4 +24,3 @@ npm run test
 ```
 npm run lint
 ```
-new line
