@@ -4,7 +4,7 @@
       <div class="logo">
         <div style="position: absolute;left: 20px;bottom: 10px">
           <a href="http://danmaku.kooriookami.top/">
-            <img src="../../src/assets/image/autumn.png">
+            <img src="../../src/assets/image/spring.png">
           </a>
         </div>
         <div style="position: absolute;right: 0;bottom: 20px">
